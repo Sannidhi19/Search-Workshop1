@@ -1,6 +1,22 @@
 # Git, Docker and Postgres Workshop
 
 One Day workshop on understanding Git, Docker and Postgres
+Bdp
+
+B
+B
+B
+D
+C
+C
+hgh
+B
+B
+Dddd
+B
+B
+B
+B
 
 ## Prerequisite
 
@@ -21,6 +37,7 @@ One Day workshop on understanding Git, Docker and Postgres
 - `sudo sh install_docker.sh`
 
 ## What will you learn by the end of this workshop?
+##Commenthhi ROH
 - Introduction to GIT
 - Git commands (push, pull make Pull request etc)
 - Concepts of containerisation and why its required.
@@ -32,10 +49,13 @@ One Day workshop on understanding Git, Docker and Postgres
 - Integration of scripts and postgres as multiple services as containers.
 - Reading data from files and populating to database.
 
+iiiI
+B
+
 ## Schedule
 | Time            | Topics
 |-----------------|-------
-| 09:00 - 9:15   |  `Introduction`
+| 09:00 - 9:15   |  `Introduction About Deepak`
 | 09:15 - 10:00   |  [`Introduction to GIT`](docs/git/git_intro.md)
 | 9:45 - 10:15   |  [`Git Commands (push, pull, make Pull request etc)`](docs/git/git.md)
 | 10:15 - 10:30   |  [`What is docker`](docs/docker/docker_intro.md)
